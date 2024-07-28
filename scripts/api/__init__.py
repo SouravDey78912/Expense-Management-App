@@ -1,0 +1,11 @@
+class Endpoints:
+    api_auth = "/auth"
+    api_user = "/user"
+    api_sign_up = "/sign_up"
+    api_login = "/login"
+    api_logout = "/logout"
+    api_fetch = "/fetch"
+    api_category = "/category"
+    api_transaction = "/transaction"
+    api_create = "/create"
+    api_update = "/update"
